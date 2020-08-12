@@ -18,7 +18,7 @@ organizations:
   url: "https://erau.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Cloud/Fog/Edge/Mobile computing and energy management.
+#bio: My research interests include Cloud/Fog/Edge/Mobile computing and energy management.
 
 interests:
 - Cybersecurity and Privacy
