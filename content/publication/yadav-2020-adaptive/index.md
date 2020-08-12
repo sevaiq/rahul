@@ -8,5 +8,12 @@ abstract: "In this paper, we address the problems of massive amount of energy co
 (1) analysing the robustness of upper CPU utilization threshold which maximize utilization of resources; (2) CPU utilization prediction based VM selection from overloaded host which reduce performance degradation time and SLA violation.
 "
 publication: "*Wireless Networks*"
+
+links:
+  - icon_pack: fab
+    icon: medium
+    name: Custom Link
+    url: 'https://link.springer.com/article/10.1007/s11276-018-1874-1'
+ 
 ---
 
