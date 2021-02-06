@@ -18,7 +18,7 @@ organizations:
   url: "https://erau.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include Cloud/Fog/Edge/Mobile computing and energy management.
+bio: My research interests include Cloud/Fog/Edge/Mobile computing and energy management.
 
 interests:
 - Cybersecurity and Privacy
@@ -41,7 +41,7 @@ education:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=kvwUY_MAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=iJ_XxxoAAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Houbing_Song
